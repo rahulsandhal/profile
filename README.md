@@ -28,7 +28,7 @@ Hello! I'm Rahul sandhal, a  "UI/UX Designer" or Graphic designer. I specialize 
 https://github.com/rahulsandhal/Ecommerce-furnutire
 ### Project 2: Krypto
 
-https://github.com/rahulsandhal/Ecommerce-furnutire-website/tree/main
+(https://github.com/rahulsandhal/krypto)
 
 
 ---
