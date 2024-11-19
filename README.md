@@ -26,13 +26,12 @@ Hello! I'm Rahul sandhal, a  "UI/UX Designer" or Graphic designer. I specialize 
 ## Projects
 
 ### Project 1: Ecommerce furniture
-
 https://github.com/rahulsandhal/Ecommerce-furnutire
+
 ### Project 2: Krypto
-
 https://github.com/rahulsandhal/krypto
-### Project 3: Krypto
 
+### Project 3:Netflix
 https://github.com/rahulsandhal/Netflix-redesign
 
 ### Project 4: apple website
