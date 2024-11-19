@@ -35,7 +35,7 @@ https://github.com/rahulsandhal/krypto
 
 https://github.com/rahulsandhal/Netflix-redesign
 
-### Project 3: Krypto
+### Project 3: apple website
 https://github.com/rahulsandhal/apple-website
 
 
