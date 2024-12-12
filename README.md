@@ -37,7 +37,7 @@ Hello! I'm Rahul sandhal, a  "UI/UX Designer" or Graphic designer. I specialize 
 ### Project 4: apple website          :  [Link ](https://github.com/rahulsandhal/apple-website)
 
 
-### Project 5: hotel website          :  [Link ](https://github.com/rahulsandhal/apple-website)
+### Project 5: hotel website          :  [Link ](https://github.com/rahulsandhal/Hotel-website)
 
 
 
