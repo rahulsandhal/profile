@@ -40,6 +40,8 @@ Hello! I'm Rahul sandhal, a  "UI/UX Designer" or Graphic designer. I specialize 
 ### Project 5: hotel website          :  [Link ](https://github.com/rahulsandhal/Hotel-website)
 
 
+### Project 5: social media posts deisgn         :  [Link ](https://github.com/rahulsandhal/instagram-posts-design)
+
 
 ---
 
