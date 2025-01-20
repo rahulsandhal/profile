@@ -57,7 +57,7 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 ## Skills
 
 
-- **Design Tools**: Figma,Adobe Photoshop, Illustrator,InDesign
+- **Design Tools**: I'm skilled in Adobe Photoshop, Adobe Illustrator, InDesign, and Figma, lottie , git 
 
 ## Contact
 
