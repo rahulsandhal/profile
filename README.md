@@ -21,7 +21,9 @@ Welcome to my portfolio! This is a collection of my work, skills, and projects. 
 
 ## About Me
 
-Hello! I'm Rahul sandhal, a  "UI/UX Designer" or Graphic designer. I specialize in [mention any specific skills or domains], and I enjoy creating user-focused and visually engaging designs and applications.
+Name: Rahul
+
+Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/ux design and user experience. I'm skilled in Photoshop, Illustrator, InDesign, and Figma, and I love creating visually appealing and functional designs. My interests include content creation for different skin types, UI/UX design, and portfolio building. I'm excited to explore opportunities in graphic design and user experience while showcasing my work on platforms like GitHub and Figma. 
 
 ## Projects
 
@@ -40,9 +42,16 @@ Hello! I'm Rahul sandhal, a  "UI/UX Designer" or Graphic designer. I specialize 
 ### Project 5: hotel website          :  [Link ](https://github.com/rahulsandhal/Hotel-website)
 
 
-### Project 5: social media posts deisgn         :  [Link ](https://github.com/rahulsandhal/instagram-posts-design)
+### Project 6: social media posts deisgn         :  [Link ](https://github.com/rahulsandhal/instagram-posts-design)
 
 
+### Project 7: Lottie annimations         :  [Link ](https://github.com/rahulsandhal/lottie-files)
+
+
+### Project 8: Redeisgn my health design        :  [Link ](https://github.com/rahulsandhal/redesign-my-health-ui)
+
+
+### Project 9: Patym ui design        :  [Link ](https://github.com/rahulsandhal/Paytm-ui-design)
 ---
 
 ## Skills
