@@ -52,6 +52,11 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 
 
 ### Project 9: Patym ui design        :  [Link ](https://github.com/rahulsandhal/Paytm-ui-design)
+
+
+### Project 10: Travel letrary app      :  [Link ](https://github.com/rahulsandhal/Travel-Itinerary-App)
+
+
 ---
 
 ## Skills
