@@ -57,6 +57,8 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 ### Project 10: Travel letrary app      :  [Link ](https://github.com/rahulsandhal/Travel-Itinerary-App)
 
 
+### Project 11: Ai website landing page      :  [Link ](https://github.com/rahulsandhal/Ai-website-landing-page)
+
 ---
 
 ## Skills
@@ -67,7 +69,7 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 ## Contact
 
 - **Email**:rahulsandhal2309@gmail.com
-
+- **contact**:7560079019
 
 ---
 
