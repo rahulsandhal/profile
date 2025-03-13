@@ -27,19 +27,19 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 
 ## Projects
 
-### Project 1: Ecommerce furniture    :  [Link](https://github.com/rahulsandhal/Ecommerce-furnutire)
+### Project 1: Ecommerce furniture (ui)   :  [Link](https://github.com/rahulsandhal/Ecommerce-furnutire)
 
 
-### Project 2: Krypto                 :  [Link ](https://github.com/rahulsandhal/krypto)
+### Project 2: Krypto  (ui)                :  [Link ](https://github.com/rahulsandhal/krypto)
 
 
-### Project 3:Netflix                 :  [Link](https://github.com/rahulsandhal/Netflix-redesign)
+### Project 3:Netflix (ui)                 :  [Link](https://github.com/rahulsandhal/Netflix-redesign)
 
 
-### Project 4: apple website          :  [Link ](https://github.com/rahulsandhal/apple-website)
+### Project 4: apple website (ui)          :  [Link ](https://github.com/rahulsandhal/apple-website)
 
 
-### Project 5: hotel website          :  [Link ](https://github.com/rahulsandhal/Hotel-website)
+### Project 5: hotel website  (ui)         :  [Link ](https://github.com/rahulsandhal/Hotel-website)
 
 
 ### Project 6: social media posts deisgn         :  [Link ](https://github.com/rahulsandhal/instagram-posts-design)
@@ -48,16 +48,16 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 ### Project 7: Lottie annimations         :  [Link ](https://github.com/rahulsandhal/lottie-files)
 
 
-### Project 8: Redeisgn my health design        :  [Link ](https://github.com/rahulsandhal/redesign-my-health-ui)
+### Project 8: Redeisgn my health design  (ui)       :  [Link ](https://github.com/rahulsandhal/redesign-my-health-ui)
 
 
-### Project 9: Patym ui design        :  [Link ](https://github.com/rahulsandhal/Paytm-ui-design)
+### Project 9: Patym ui design  (ui)       :  [Link ](https://github.com/rahulsandhal/Paytm-ui-design)
 
 
-### Project 10: Travel letrary app      :  [Link ](https://github.com/rahulsandhal/Travel-Itinerary-App)
+### Project 10: Travel letrary app  (ui)     :  [Link ](https://github.com/rahulsandhal/Travel-Itinerary-App)
 
 
-### Project 11: Ai website landing page      :  [Link ](https://github.com/rahulsandhal/Ai-website-landing-page)
+### Project 11: Ai website landing page  (ui)     :  [Link ](https://github.com/rahulsandhal/Ai-website-landing-page)
 
 ---
 
