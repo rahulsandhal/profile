@@ -6,8 +6,6 @@
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I love exploring color theory and typography—I'm always on the lookout for new fonts to add to my collection!
 
-# My Resume  https://github.com/user-attachments/files/19532215/resume.pdf
-
 # My Portfolio
 
 Welcome to my portfolio! This is a collection of my work, skills, and projects. Feel free to explore and reach out if you'd like to collaborate!
@@ -25,6 +23,9 @@ Welcome to my portfolio! This is a collection of my work, skills, and projects. 
 Name: Rahul
 
 Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/ux design and user experience. I'm skilled in Photoshop, Illustrator, InDesign, and Figma, and I love creating visually appealing and functional designs. My interests include content creation for different skin types, UI/UX design, and portfolio building. I'm excited to explore opportunities in graphic design and user experience while showcasing my work on platforms like GitHub and Figma. 
+
+[resume](https://github.com/user-attachments/files/19532215/resume.pdf)
+
 
 ## Projects
 
