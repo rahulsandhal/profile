@@ -6,6 +6,7 @@
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I love exploring color theory and typography—I'm always on the lookout for new fonts to add to my collection!
 
+# My Resume  https://github.com/user-attachments/files/19532215/resume.pdf
 
 # My Portfolio
 
