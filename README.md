@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @rahulsandhal
-- My website design - https://iamrahul.framer.ai
-- 👀 I’m interested in UI/UX design, graphic design, and crafting visually compelling digital experiences.
-- 🌱 I’m currently learning advanced prototyping, motion design, and how to create cohesive design systems.
-- 💞️ I’m looking to collaborate on projects that merge creativity with functionality, such as web and mobile app design or branding projects.
-- 📫 How to reach me Feel free to contact me at rahul.sandhal2309@gmail.com
-- 😄 Pronouns:He/Him
-- ⚡ Fun fact:I love exploring color theory and typography—I'm always on the lookout for new fonts to add to my collection!
+- 👋 Hi, I’m Rahul Sandhal
+
+- 🌐 My design portfolio: iamrahul.framer.ai
+
+- 🎨 Passionate about UI/UX design, graphic design, and creating visually engaging digital experiences.
+
+- 📚 Currently learning advanced prototyping, motion design, and building cohesive design systems.
+
+- 🤝 Open to collaborations on web & mobile app design, branding projects, and creative digital solutions.
+
+- 📧 Reach me at: rahul.sandhal2309@gmail.com
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I’m fascinated by color theory & typography, and love discovering unique fonts to expand my creative toolkit.
 
 # My Portfolio
 
@@ -29,38 +36,43 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 
 
 ## Projects
-
-### Project 1: Ecommerce furniture (ui)   :  [Link](https://github.com/rahulsandhal/Ecommerce-furnutire)
-
-
-### Project 2: Krypto  (ui)                :  [Link ](https://github.com/rahulsandhal/krypto)
+### Project 1: Play store designs   :  [Link](https://github.com/rahulsandhal/Play-store-Designs-)
 
 
-### Project 3:Netflix (ui)                 :  [Link](https://github.com/rahulsandhal/Netflix-redesign)
+### Project 2: Shorts and video   :  [ Link ](https://github.com/rahulsandhal/Short-Videos)
 
 
-### Project 4: apple website (ui)          :  [Link ](https://github.com/rahulsandhal/apple-website)
+### Project 3 : Ecommerce furniture (ui)   :  [Link](https://github.com/rahulsandhal/Ecommerce-furnutire)
 
 
-### Project 5: hotel website  (ui)         :  [Link ](https://github.com/rahulsandhal/Hotel-website)
+### Project 4: social media posts deisgn         :  [Link ](https://github.com/rahulsandhal/instagram-posts-design)
 
 
-### Project 6: social media posts deisgn         :  [Link ](https://github.com/rahulsandhal/instagram-posts-design)
+### Project 5: Krypto  (ui)                :  [Link ](https://github.com/rahulsandhal/krypto)
 
 
-### Project 7: Lottie annimations         :  [Link ](https://github.com/rahulsandhal/lottie-files)
+### Project 6:Netflix (ui)                 :  [Link](https://github.com/rahulsandhal/Netflix-redesign)
 
 
-### Project 8: Redeisgn my health design  (ui)       :  [Link ](https://github.com/rahulsandhal/redesign-my-health-ui)
+### Project 7: apple website (ui)          :  [Link ](https://github.com/rahulsandhal/apple-website)
 
 
-### Project 9: Patym ui design  (ui)       :  [Link ](https://github.com/rahulsandhal/Paytm-ui-design)
+### Project 8: hotel website  (ui)         :  [Link ](https://github.com/rahulsandhal/Hotel-website)
 
 
-### Project 10: Travel letrary app  (ui)     :  [Link ](https://github.com/rahulsandhal/Travel-Itinerary-App)
+### Project 9: Lottie annimations         :  [Link ](https://github.com/rahulsandhal/lottie-files)
 
 
-### Project 11: Ai website landing page  (ui)     :  [Link ](https://github.com/rahulsandhal/Ai-website-landing-page)
+### Project 10: Redeisgn my health design  (ui)       :  [Link ](https://github.com/rahulsandhal/redesign-my-health-ui)
+
+
+### Project 11: Patym ui design  (ui)       :  [Link ](https://github.com/rahulsandhal/Paytm-ui-design)
+
+
+### Project 12: Travel letrary app  (ui)     :  [Link ](https://github.com/rahulsandhal/Travel-Itinerary-App)
+
+
+### Project 13: Ai website landing page  (ui)     :  [Link ](https://github.com/rahulsandhal/Ai-website-landing-page)
 
 ---
 
