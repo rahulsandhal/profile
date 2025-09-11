@@ -76,15 +76,32 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 
 ---
 
-## Skills
+## 🛠 Skills & Tools
 
 
-- **Design Tools**: I'm skilled in Adobe Photoshop, Adobe Illustrator, InDesign, and Figma, lottie , git 
+- Design: UI/UX, Wireframing, Prototyping, Branding, Social Media Creatives
+- Tools: Figma, Photoshop, Illustrator, InDesign, Canva, Framer
+- Special Interests: Typography, Color Theory, Motion Design
 
-## Contact
 
-- **Email**:rahulsandhal2309@gmail.com
-- **contact**:7560079019
+📚 Experience
+
+Graphic & UI/UX Intern – Xpensease
+
+Designed social media posts, UI layouts, and website concepts.
+
+Created branding materials, animations, and marketing creatives.
+
+Freelance Design Projects
+
+Worked on branding, social media, and UI/UX design projects for personal and client work.
+
+
+## 📫 Contact
+
+- Email: rahulsandhal2309@gmail.com
+- contact: 7560079019
+- Fun fact: I love discovering new fonts and exploring creative typography!
 
 ---
 
