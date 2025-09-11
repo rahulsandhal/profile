@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulsandhal
-- My Portfolio - https://iamrahul.framer.ai
+- My website design - https://iamrahul.framer.ai
 - 👀 I’m interested in UI/UX design, graphic design, and crafting visually compelling digital experiences.
 - 🌱 I’m currently learning advanced prototyping, motion design, and how to create cohesive design systems.
 - 💞️ I’m looking to collaborate on projects that merge creativity with functionality, such as web and mobile app design or branding projects.
