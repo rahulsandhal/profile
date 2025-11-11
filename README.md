@@ -32,7 +32,7 @@ Name: Rahul
 
 Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/ux design and user experience. I'm skilled in Photoshop, Illustrator, InDesign, and Figma, and I love creating visually appealing and functional designs. My interests include content creation for different skin types, UI/UX design, and portfolio building. I'm excited to explore opportunities in graphic design and user experience while showcasing my work on platforms like GitHub and Figma. 
 
-[resume](https://github.com/user-attachments/files/19532215/resume.pdf)
+[resume](https://github.com/user-attachments/files/23469370/rahul.Updated.Resume.pdf)
 
 
 ## Projects
