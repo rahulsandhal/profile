@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rahul Sandhal
+- 👋 Hi, I’m Rahul Sandhal                                                                                                                                              
 
+MY RESUME    [resume](https://github.com/user-attachments/files/24487578/rahul.resume.pdf)
 - 🌐 My design portfolio: iamrahul.framer.ai
-
 - 🎨 Passionate about UI/UX design, graphic design, and creating visually engaging digital experiences.
 
 - 📚 Currently learning advanced prototyping, motion design, and building cohesive design systems.
