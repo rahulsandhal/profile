@@ -84,18 +84,37 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 - Special Interests: Typography, Color Theory, Motion Design
 
 
-📚 Experience
+Xpensease (Remote)
 
-Graphic & UI/UX Intern – Xpensease
+Junior Graphic Web Designer | Apr 2025 – Apr 2026
 
-Designed social media posts, UI layouts, and website concepts.
+Designed websites, landing pages, and mobile app interfaces.
+Created wireframes, prototypes, and responsive UI designs using Figma.
+Developed branding assets, social media creatives, and marketing materials.
+Collaborated with developers to ensure accurate design implementation.
 
-Created branding materials, animations, and marketing creatives.
+Graphic Web Designer | Apr 2026 – May 2026
 
-Freelance Design Projects
+Led web design projects and improved user experience across digital products.
+Created high-fidelity UI designs and design systems.
+Managed visual consistency and brand identity across platforms.
+Meta3 Infotech Pvt Ltd (Remote)
 
-Worked on branding, social media, and UI/UX design projects for personal and client work.
+Shopify Developer & Graphic Designer | Feb 2026 – Apr 2026
 
+Designed Shopify stores, product pages, and conversion-focused landing pages.
+Created graphics, banners, and promotional creatives.
+Improved store UI and customer experience.
+PulsePlay Digital
+
+Graphic Designer Intern | Dec 2023 – Jul 2024
+
+Designed social media posts, ad creatives, and branding materials.
+Assisted in marketing campaigns and visual content creation.
+Worked with Photoshop, Illustrator, and Figma.
+Core Skills
+
+UI/UX Design • Figma • Wireframing • Prototyping • Design Systems • Graphic Design • Branding • Adobe Photoshop • Adobe Illustrator • Shopify • Responsive Web Design
 
 ## 📫 Contact
 
