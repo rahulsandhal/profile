@@ -94,18 +94,40 @@ I am a passionate UI/UX and Graphic Designer focused on creating intuitive digit
 `UI/UX Design` • `Figma` • `Wireframing` • `Prototyping` • `Design Systems` • `Graphic Design` • `Branding` • `Adobe Photoshop` • `Adobe Illustrator` • `Shopify` • `Responsive Web Design`
 <div align="center">
 
-<div align="center">
+# 👋 Rahul Sandhal
 
-## 💫 Let's Connect
-
-### Rahul Sandhal
-
-**UI/UX Designer • Graphic Designer • Creative Problem Solver**
+### UI/UX Designer • Graphic Designer • Creative Problem Solver
 
 Designing intuitive digital experiences that blend creativity, usability, and visual excellence.
 
-🌐 **Portfolio:** iamrahul.framer.ai  
-📧 **Email:** rahulsandhal2309@gmail.com
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-000?style=for-the-badge)](https://iamrahul.framer.ai)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:rahulsandhal2309@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+### ✨ Design Philosophy
+
+> "Design is intelligence made visible."
+
+### 🚀 What I Do
+
+🎨 Create modern and user-friendly interfaces  
+📱 Design engaging mobile & web experiences  
+💡 Transform ideas into impactful digital products  
+🌱 Continuously learning and improving my craft
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
 
 ---
 
