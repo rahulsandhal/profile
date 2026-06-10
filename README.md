@@ -1,40 +1,13 @@
-- 👋 Hi, I’m Rahul Sandhal                                                                                                                                              
-
-MY RESUME    [resume](https://github.com/user-attachments/files/24487578/rahul.resume.pdf)
-- 🌐 My design portfolio: iamrahul.framer.ai
-- 🎨 Passionate about UI/UX design, graphic design, and creating visually engaging digital experiences.
-
-- 📚 Currently learning advanced prototyping, motion design, and building cohesive design systems.
-
-- 🤝 Open to collaborations on web & mobile app design, branding projects, and creative digital solutions.
-
-- 📧 Reach me at: rahul.sandhal2309@gmail.com
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I’m fascinated by color theory & typography, and love discovering unique fonts to expand my creative toolkit.
-
-# My Portfolio
-
-Welcome to my portfolio! This is a collection of my work, skills, and projects. Feel free to explore and reach out if you'd like to collaborate!
-
-## Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
-
----
-
-## About Me
-
-Name: Rahul
-
-Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/ux design and user experience. I'm skilled in Photoshop, Illustrator, InDesign, and Figma, and I love creating visually appealing and functional designs. My interests include content creation for different skin types, UI/UX design, and portfolio building. I'm excited to explore opportunities in graphic design and user experience while showcasing my work on platforms like GitHub and Figma. 
-
-[resume](https://github.com/user-attachments/files/23469370/rahul.Updated.Resume.pdf)
-
-
+# 👋 Hi, I'm Rahul Sandhal 🎨 **UI/UX Designer | Graphic Designer | AI-Powered Design Enthusiast**
+I am a passionate UI/UX and Graphic Designer focused on creating intuitive digital experiences and visually engaging products. I combine design thinking, user-centered design principles, and AI-powered tools to transform ideas into impactful solutions. ---
+## 🌐 Connect With Me
+🌍 Portfolio: [iamrahul.framer.ai](https://iamrahul.framer.ai)
+📄 Resume: [View Resume](https://github.com/user-attachments/files/24487578/rahul.resume.pdf)
+📧 Email: rahul.sandhal2309@gmail.com
+### Special Interests
+- Typography
+- Color Theory
+- Motion Design
 ## Projects
 ### Project 1: Play store designs   :  [Link](https://github.com/rahulsandhal/Play-store-Designs-)
 
@@ -78,56 +51,66 @@ Helo! I'm Rahul, a recent B.Com graduate with a passion for graphic design , ui/
 
 ## 🛠 Skills & Tools
 
+![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-Adobe-blue?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-Adobe-orange?style=for-the-badge&logo=adobeillustrator)
+![Framer](https://img.shields.io/badge/Framer-NoCode-black?style=for-the-badge&logo=framer)
+![Shopify](https://img.shields.io/badge/Shopify-Ecommerce-green?style=for-the-badge&logo=shopify)
 
-- Design: UI/UX, Wireframing, Prototyping, Branding, Social Media Creatives
-- Tools: Figma, Photoshop, Illustrator, InDesign, Canva, Framer
-- Special Interests: Typography, Color Theory, Motion Design
+### 🌟 Interests
+
+`Typography` • `Color Theory` • `Motion Design` • `User-Centered Design` • `Digital Product Design`
 
 
-Xpensease (Remote)
+## 💼 Experience
 
-Junior Graphic Web Designer | Apr 2025 – Apr 2026
+### 🚀 Xpensease (Remote)
 
-Designed websites, landing pages, and mobile app interfaces.
-Created wireframes, prototypes, and responsive UI designs using Figma.
-Developed branding assets, social media creatives, and marketing materials.
-Collaborated with developers to ensure accurate design implementation.
+**Graphic Web Designer** | Apr 2025 – Present
 
-Graphic Web Designer | Apr 2026 – May 2026
+- Designed responsive websites, landing pages, and mobile app interfaces.
+- Created wireframes, prototypes, and high-fidelity UI designs using Figma.
+- Developed branding assets, social media creatives, and marketing materials.
+- Collaborated with developers to ensure seamless design implementation.
 
-Led web design projects and improved user experience across digital products.
-Created high-fidelity UI designs and design systems.
-Managed visual consistency and brand identity across platforms.
-Meta3 Infotech Pvt Ltd (Remote)
+### 🛍️ Meta3 Infotech Pvt Ltd (Remote)
 
-Shopify Developer & Graphic Designer | Feb 2026 – Apr 2026
+**Shopify Developer & Graphic Designer** | Feb 2025 – Apr 2025
 
-Designed Shopify stores, product pages, and conversion-focused landing pages.
-Created graphics, banners, and promotional creatives.
-Improved store UI and customer experience.
-PulsePlay Digital
+- Designed Shopify stores, product pages, and conversion-focused landing pages.
+- Created promotional graphics, banners, and marketing creatives.
+- Enhanced store UI and customer experience.
 
-Graphic Designer Intern | Dec 2023 – Jul 2024
+### 🎨 PulsePlay Digital
 
-Designed social media posts, ad creatives, and branding materials.
-Assisted in marketing campaigns and visual content creation.
-Worked with Photoshop, Illustrator, and Figma.
-Core Skills
+**Graphic Designer Intern** | Dec 2023 – Jul 2024
 
-UI/UX Design • Figma • Wireframing • Prototyping • Design Systems • Graphic Design • Branding • Adobe Photoshop • Adobe Illustrator • Shopify • Responsive Web Design
+- Designed social media posts, ad creatives, and branding materials.
+- Assisted in marketing campaigns and visual content creation.
+- Worked with Figma, Photoshop, and Illustrator.
 
-## 📫 Contact
+## 🎯 Core Skills
 
-- Email: rahulsandhal2309@gmail.com
-- contact: 7560079019
-- Fun fact: I love discovering new fonts and exploring creative typography!
+`UI/UX Design` • `Figma` • `Wireframing` • `Prototyping` • `Design Systems` • `Graphic Design` • `Branding` • `Adobe Photoshop` • `Adobe Illustrator` • `Shopify` • `Responsive Web Design`
+<div align="center">
+
+<div align="center">
+
+## 💫 Let's Connect
+
+### Rahul Sandhal
+
+**UI/UX Designer • Graphic Designer • Creative Problem Solver**
+
+Designing intuitive digital experiences that blend creativity, usability, and visual excellence.
+
+🌐 **Portfolio:** iamrahul.framer.ai  
+📧 **Email:** rahulsandhal2309@gmail.com
 
 ---
 
-Thanks for visiting my portfolio! 😊
+*"Design is intelligence made visible."*
 
+⭐ Thanks for visiting my profile!
 
-<!---
-rahulsandhal/rahulsandhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
